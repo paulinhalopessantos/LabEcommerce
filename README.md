@@ -14,7 +14,8 @@ O projeto LabeEcommerce foi criado **em grupo** por mim e mais dois colegas do *
 Trata-se de um ecommerce de camisas espaciais, onde implementamos uma home, um carrinho e filtros para manipular os valores das camisas.
 
 ## Deploy da Aplicação com Surge: :dash:
->tacit-moon.surge.sh
+> <https://tacit-moon.surge.shm/>.
+
 
 ## 📌Tecnologias utilizadas
 - React Js
