@@ -27,7 +27,7 @@ Trata-se de um ecommerce de camisas espaciais, onde implementamos uma home, um c
 ## 🏷 Como baixar e rodar o projeto
 ```Bash
 * Clonar o projeto
-$ git clone https://github.com/paulinhalopessantos/pokedex.git
+$ git clone https://github.com/paulinhalopessantos/LabEcommerce.git
 * Entrar no diretório
 $ cd pokedex
 * Instalar as dependências
